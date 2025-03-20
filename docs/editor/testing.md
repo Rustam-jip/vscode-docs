@@ -4,7 +4,7 @@ Area: editor
 TOCTitle: Testing
 ContentId: d44f1a5c-5454-4037-92d5-c2bf5d4cffed
 PageTitle: Testing in Visual Studio Code
-DateApproved: 12/11/2024
+DateApproved: 03/05/2025
 MetaDescription: One of the great things in Visual Studio Code is testing support. Automatically discover tests in your project, run and debug your tests, and get test coverage results.
 ---
 # Testing
@@ -26,7 +26,7 @@ VS Code has the following features for testing your code:
 
 * **Support multiple testing frameworks**: language [extensions](#extensions-for-testing) and standalone testing extensions provide support for various languages and test runners, such as Jest, Mocha, Pytest, JUnit, and more.
 
-* **Centralized test management**: the [Test Explorer](#automatic-test-discovery-in-test-explorer) provides a centralized place to manage and run the tests in your project. The Test Explorer might automatically discover the tests in your project, depending on the testing extension.
+* **Centralized test management**: the [Test Explorer](#automatic-test-discovery-in-testing-view) provides a centralized place to manage and run the tests in your project. The Test Explorer might automatically discover the tests in your project, depending on the testing extension.
 
 * **Integrated test results**: view the test status inline in the editor alongside the test code, or view all tests in the Test Explorer. Detailed test results are available in the Test Results panel.
 
@@ -202,7 +202,7 @@ The following code snippet shows a `tasks.json` file that specifies the `node --
 }
 ```
 
-To run the test task, use the command **Tasks: Run Test Task** or [create a keyboard shortcut](/docs/getstarted/keybindings.md) for the command.
+To run the test task, use the command **Tasks: Run Test Task** or [create a keyboard shortcut](/docs/editor/keybindings.md) for the command.
 
 Learn more about [using and configuring Tasks](/docs/editor/tasks.md).
 

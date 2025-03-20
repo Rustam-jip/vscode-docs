@@ -1,10 +1,6 @@
 ---
-Order: 10
-Area: getstarted
-TOCTitle: Educators & Students
 ContentId: 33b73b13-3d85-49d9-95b2-92b75137818c
-PageTitle: Visual Studio Code for Educators and Students
-DateApproved: 12/11/2024
+DateApproved: 03/05/2025
 MetaDescription: Resources for educators and students to get started with Visual Studio Code.
 ---
 # VS Code for Educators and Students
